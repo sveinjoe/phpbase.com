@@ -1,0 +1,3 @@
+includes/init/ 新建一个pagename目录
+includes/templates 新建一个tpl_pagename.php
+程序先读init再读templates里的php
